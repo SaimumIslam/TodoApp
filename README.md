@@ -6,6 +6,14 @@ This is a todo web app for creating tasks of a day. The app has reponsive views 
 Tasks are in sorting order of time and done states. Tasks can be in created, deleted and done condition.
 The percentage of completing will remind user about his performance. The task will save in local storage automatically after closing the tab.
 
+
+## Screenshots
+![desktop1](https://user-images.githubusercontent.com/25328307/92407952-eb4a7780-f15d-11ea-93aa-2ba2e8555436.PNG)
+![desktop2](https://user-images.githubusercontent.com/25328307/92407956-ec7ba480-f15d-11ea-9fa9-7c203ad0ae60.PNG)
+![form](https://user-images.githubusercontent.com/25328307/92407962-ee456800-f15d-11ea-8b6c-4609bb0c40a9.PNG)
+![mobile1](https://user-images.githubusercontent.com/25328307/92407963-ee456800-f15d-11ea-8bc8-49fe6ce59e7d.PNG)
+![mobile2](https://user-images.githubusercontent.com/25328307/92407945-e8e81d80-f15d-11ea-957a-0b2acb8fcf62.PNG)
+
 ## Technology
 
 react, material ui
@@ -25,13 +33,6 @@ react, material ui
 
 
 ## Available Scripts
-![desktop1](https://user-images.githubusercontent.com/25328307/92407952-eb4a7780-f15d-11ea-93aa-2ba2e8555436.PNG)
-![desktop2](https://user-images.githubusercontent.com/25328307/92407956-ec7ba480-f15d-11ea-9fa9-7c203ad0ae60.PNG)
-![form](https://user-images.githubusercontent.com/25328307/92407962-ee456800-f15d-11ea-8b6c-4609bb0c40a9.PNG)
-![mobile1](https://user-images.githubusercontent.com/25328307/92407963-ee456800-f15d-11ea-8bc8-49fe6ce59e7d.PNG)
-![mobile2](https://user-images.githubusercontent.com/25328307/92407945-e8e81d80-f15d-11ea-957a-0b2acb8fcf62.PNG)
-
-
 In the project directory, you can run:
 
 ### `npm start`
